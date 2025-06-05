@@ -1,0 +1,29 @@
+/* Sayfa genel ayarları */
+body {
+    text-align: center; /* Tüm içerikleri ortala */
+    margin-top: 100px;  /* Yukarıdan boşluk bırak */
+    font-family: Arial, sans-serif; /* Yazı tipi */
+  }
+  
+  /* Logo boyutu */
+  img {
+    width: 270px; /* Görsel çok büyükse küçültüyoruz */
+  }
+  
+  /* Arama kutusu */
+  input {
+    width: 400px;     /* Genişlik */
+    height: 30px;     /* Yükseklik */
+    font-size: 16px;  /* Yazı boyutu */
+    padding: 5px;     /* İç boşluk */
+    margin-top: 20px; /* Üst boşluk */
+  }
+  
+  /* Butonlar */
+  button {
+    margin: 10px 5px;       /* Dış boşluk */
+    padding: 8px 16px;      /* İç boşluk */
+    font-size: 14px;        /* Yazı boyutu */
+    cursor: pointer;        /* Üzerine gelince el simgesi */
+  }
+  
